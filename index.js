@@ -33,6 +33,3 @@ products.forEach(value => {          // mostra o quanto a compra daria sem o des
 let diference = startValue - finalValue          // calcular a diferença entre os dois valores
 
 console.log(`O valor final de sua compra foi R$${startValue}, comprando agora você terá desconto de ${desconto}% e irá pagar apenas R$${finalValue}, economia de R$${diference}`)
-
-
-
